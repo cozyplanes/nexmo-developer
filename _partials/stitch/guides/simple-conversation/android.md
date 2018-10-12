@@ -140,7 +140,7 @@ With the basic setup in place we can now focus on the client-side application
 
 ### 2.1 Start a new project and add the Nexmo Stitch SDK
 
-Open Android Studio and start a new project. We'll name it "Stitch Android Quickstart 1". The minimum SDK will be set to API 19. We can start with an empty activity named "Login Activity".
+Open Android Studio and start a new project. We'll name it "Stitch Android Quickstart 1". The minimum SDK will be set to API 19 (It may differ between Android Studio versions. If you are unsure, just set to API 19). We can start with an empty activity named "Login Activity".
 
 In the `build.gradle` file we'll add the Nexmo Stitch Android SDK and the WebRTC dependency.
 
